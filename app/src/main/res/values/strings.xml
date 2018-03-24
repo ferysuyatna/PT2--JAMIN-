@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JAMIN</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_auto">Auto</string>
+    <string name="tab_activity">Based On Activity</string>
+    <string name="action_settings">Profil</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Profile_information">Your Profile Information</string>
+    <string name="text_btn_on">ON</string>
+    <string name="off">OFF</string>
+    <string name="text_btn_off">OFF</string>
+    <string name="text_aktiv_auto">Aktifkan Auto Mode</string>
+    <string name="text_comman">Clik button + or choose reminder for activate</string>
+    <string name="size_glass_250">250ML</string>
+    <string name="size_glass_500">500ML</string>
+    <string name="size_glass_750">750ML</string>
+    <string name="size_glass_1L">1L</string>
+    <string name="size_glass_2L">2L</string>
+    <string name="text_welcome">WELCOME TO JAMIN apps</string>
+    <string name="jenis_kelamin">GENDER :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="wake_up">Wake up :</string>
+    <string name="sleep">Sleep :</string>
+    <string name="weight">Weight :</string>
+    <string name="btn">button</string>
+    <string name="btn_tambah">Aktifkan Reminder</string>
+    <string name="text_name_activity">Text</string>
+    <string name="text_information">Text</string>
+    <string name="text_data">Text</string>
+</resources>
